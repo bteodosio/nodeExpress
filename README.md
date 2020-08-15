@@ -1,2 +1,2 @@
-# nodeExpress + MongoDB
-Projetos em nodejs + Express com mongoDB
+# nodeExpress + MySQL
+Projetos em nodejs + Express com MySQL
